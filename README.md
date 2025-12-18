@@ -2,6 +2,8 @@
 
 This script automates GoPro cloud downloads by logging in via Selenium, then right-clicking each media tile and choosing the download option.
 
+![Image](https://github.com/user-attachments/assets/48146a2b-76de-4c64-8331-28f19ccb6fef)
+
 ## Setup
 - Python 3.9+ with a virtualenv recommended.
 - Install deps: `python -m pip install -r requirements.txt` (or `pip install selenium requests`).
